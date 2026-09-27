@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#e9ecef"/>
+  <rect x="116" y="72" width="1368" height="756" fill="#ffffff" stroke="#cbd0d5" stroke-width="2"/>
+  <rect x="116" y="72" width="1368" height="86" fill="#111318"/>
+  <text x="164" y="112" fill="#7da0ff" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">EVALUATION REPORT / LOCAL FIXTURE</text>
+  <text x="164" y="142" fill="#f7f8fb" font-family="Arial, sans-serif" font-size="18" font-weight="700">task_001 · good_answer.md</text>
+  <rect x="1280" y="96" width="152" height="42" fill="#0a8b76"/>
+  <text x="1321" y="123" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="700">PASS</text>
+  <text x="164" y="214" fill="#626873" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">SCORE</text>
+  <text x="164" y="290" fill="#111318" font-family="Arial, sans-serif" font-size="72" font-weight="700">98.56</text>
+  <text x="384" y="286" fill="#626873" font-family="Arial, sans-serif" font-size="18">/ 100</text>
+  <rect x="164" y="330" width="530" height="12" fill="#e7edff"/>
+  <rect x="164" y="330" width="518" height="12" fill="#2457ff"/>
+  <text x="164" y="392" fill="#111318" font-family="Arial, sans-serif" font-size="16" font-weight="700">Passed Constraints</text>
+  <text x="164" y="424" fill="#626873" font-family="Arial, sans-serif" font-size="16">CI-01 · CI-02 · CI-03 · CI-04 · CI-05</text>
+  <text x="164" y="454" fill="#626873" font-family="Arial, sans-serif" font-size="16">CI-06 · CI-07 · CI-08 · CI-09 · CI-10</text>
+  <text x="164" y="512" fill="#111318" font-family="Arial, sans-serif" font-size="16" font-weight="700">Failed Constraints</text>
+  <text x="164" y="544" fill="#0a8b76" font-family="Arial, sans-serif" font-size="16">None</text>
+  <line x1="786" y1="196" x2="786" y2="738" stroke="#d5d7da" stroke-width="2"/>
+  <text x="844" y="214" fill="#626873" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">RUBRIC BREAKDOWN</text>
+  <g font-family="Arial, sans-serif" font-size="15">
+    <text x="844" y="268" fill="#111318">Instruction Coverage</text><text x="1350" y="268" fill="#2457ff" font-weight="700">100</text><rect x="844" y="282" width="470" height="8" fill="#e7edff"/><rect x="844" y="282" width="470" height="8" fill="#2457ff"/>
+    <text x="844" y="344" fill="#111318">Constraint Satisfaction</text><text x="1350" y="344" fill="#2457ff" font-weight="700">100</text><rect x="844" y="358" width="470" height="8" fill="#e7edff"/><rect x="844" y="358" width="470" height="8" fill="#2457ff"/>
+    <text x="844" y="420" fill="#111318">Correctness</text><text x="1350" y="420" fill="#2457ff" font-weight="700">100</text><rect x="844" y="434" width="470" height="8" fill="#e7edff"/><rect x="844" y="434" width="470" height="8" fill="#2457ff"/>
+    <text x="844" y="496" fill="#111318">Evidence Quality</text><text x="1350" y="496" fill="#2457ff" font-weight="700">100</text><rect x="844" y="510" width="470" height="8" fill="#e7edff"/><rect x="844" y="510" width="470" height="8" fill="#2457ff"/>
+    <text x="844" y="572" fill="#111318">Executability</text><text x="1350" y="572" fill="#976d00" font-weight="700">82</text><rect x="844" y="586" width="470" height="8" fill="#fff8df"/><rect x="844" y="586" width="385" height="8" fill="#ffc34d"/>
+  </g>
+  <rect x="844" y="662" width="520" height="56" fill="#f7f7f4" stroke="#d5d7da" stroke-width="2"/>
+  <text x="872" y="696" fill="#626873" font-family="Arial, sans-serif" font-size="15">Deterministic local diagnostic; not a model leaderboard result.</text>
+  <text x="116" y="866" fill="#626873" font-family="Arial, sans-serif" font-size="15">Rendered from the checked-in demo report. Values are fixture diagnostics, not named-model performance.</text>
+</svg>
+
